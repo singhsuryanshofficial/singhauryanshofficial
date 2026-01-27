@@ -16,6 +16,8 @@ I'm a **Data Analyst** passionate about transforming raw data into meaningful bu
 - **Data Analysis & Reporting**
 - **Business Insights & Visualization**
 
+---
+
 ### 📊 Featured Project - 1
 
 ## 📊 Consumer Behavior Analytics  
