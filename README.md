@@ -38,6 +38,7 @@ Power BI Desktop • Power BI Service • Power BI App • SQL • Python
 🔗 **Project Repository:**  
 `consumer-behavior-analytics`
 
+---
 
 ### 📊 Featured Project - 2
 
